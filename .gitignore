@@ -1,0 +1,13 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+
+# ignore locals
+lazy-lock.json
+lazyvim.json
+
