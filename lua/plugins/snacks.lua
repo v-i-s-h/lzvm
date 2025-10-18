@@ -1,4 +1,4 @@
-M = {
+local M = {
   "snacks.nvim",
   opts = {
     dashboard = {
