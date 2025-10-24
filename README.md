@@ -16,4 +16,11 @@ git clone https://github.com/v-i-s-h/lzvm.git ~/.config/nvim
 
 ## Additional tools installed (in linux)
 
-1. lazygit
+1. [lazygit](https://github.com/jesseduffield/lazygit)
+
+## Configuring LSPs
+
+### WIP
+
+- Julia LSP setup
+  - Refer [Setting up Julia for Neovim](https://www.juliabloggers.com/setting-up-julia-lsp-for-neovim/)
