@@ -6,6 +6,14 @@ local M = {
         header = [[ Welcome! ]],
       },
     },
+    styles = {
+      notification = {
+        wo = { wrap = true },
+      },
+    },
+    notifier = {
+      timeout = 3000,
+    },
   },
 }
 
